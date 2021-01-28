@@ -1,0 +1,9 @@
+c:\users\xuntron\documents\visual studio 2013\Projects\CpuScheduling\CpuScheduling\bin\Debug\CpuScheduling.exe
+c:\users\xuntron\documents\visual studio 2013\Projects\CpuScheduling\CpuScheduling\bin\Debug\CpuScheduling.pdb
+c:\users\xuntron\documents\visual studio 2013\Projects\CpuScheduling\CpuScheduling\obj\Debug\CpuScheduling.csprojResolveAssemblyReference.cache
+c:\users\xuntron\documents\visual studio 2013\Projects\CpuScheduling\CpuScheduling\obj\Debug\CpuScheduling.frmMain.resources
+c:\users\xuntron\documents\visual studio 2013\Projects\CpuScheduling\CpuScheduling\obj\Debug\CpuScheduling.Properties.Resources.resources
+c:\users\xuntron\documents\visual studio 2013\Projects\CpuScheduling\CpuScheduling\obj\Debug\CpuScheduling.csproj.GenerateResource.Cache
+c:\users\xuntron\documents\visual studio 2013\Projects\CpuScheduling\CpuScheduling\obj\Debug\CpuScheduling.exe
+c:\users\xuntron\documents\visual studio 2013\Projects\CpuScheduling\CpuScheduling\obj\Debug\CpuScheduling.pdb
+E:\LECTURES SEMESTER 5\OS\CpuScheduling\CpuScheduling\obj\Debug\CpuScheduling.csprojResolveAssemblyReference.cache
